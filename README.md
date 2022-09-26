@@ -11,3 +11,4 @@ Source: (YT) https://www.youtube.com/watch?v=JkeyKeK3V24&list=PL7z709buwaYN-JHfH
 2. Slider (09/09/2022)
 3. Random Choice Picker (11/09/2022)
 4. Live User Filter (23/09/2022)
+5. Content Placeholder (26/09/2022)
